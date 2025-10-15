@@ -86,14 +86,13 @@ Kantz, H. & Schreiber, T. (2003). Nonlinear Time Series Analysis. Cambridge Univ
 Project Report: Noise Reduction Using Gradient Descent, Digital University of Kerala, 2025.
 
 👩‍💻 Authors
+Muhammed Anshif K T
 
 Arshida Mahmooda
 
 Sreya K
 
 Neha Pramod K
-
-Muhammed Anshif K T
 
 Adil Rabeu T
 
